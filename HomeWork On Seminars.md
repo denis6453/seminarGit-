@@ -68,5 +68,7 @@ git branch -D <BranchName1> -- выполниться в любом случае
 ```
 git logg --graph
 ```
+**Пример:**
 
+![Изображение урока](StructureBranch.png)
 
